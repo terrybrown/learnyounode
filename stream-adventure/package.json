@@ -1,0 +1,28 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "stream-adventure nodeschool.io tutorials",
+  "main": "1-beep-boop.js",
+  "dependencies": {
+    "concat-stream": "^1.4.7",
+    "split": "^0.3.2",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.4.7",
+    "duplexer": "^0.1.1",
+    "gzip": "^0.1.0",
+    "request": "^2.51.0",
+    "split": "^0.3.2",
+    "stream-combiner": "^0.2.1",
+    "through": "^2.3.6",
+    "trumpet": "^1.7.0",
+    "websocket-stream": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/terrybrown/nodeschool",
+  "author": "",
+  "license": "ISC"
+}

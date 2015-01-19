@@ -1,0 +1,23 @@
+{
+  "name": "functional-javascript",
+  "version": "1.0.0",
+  "description": "Learn fundamental functional programming features of JavaScript in vanilla ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terrybrown/learnyounode.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript"
+  ],
+  "author": "Terry Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrybrown/learnyounode/issues"
+  },
+  "homepage": "https://github.com/terrybrown/learnyounode"
+}

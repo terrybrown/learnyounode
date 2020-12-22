@@ -14,6 +14,9 @@
     "functional",
     "javascript"
   ],
+  "dependencies": {
+    "bl": ">=1.2.3"
+  },
   "author": "Terry Brown",
   "license": "ISC",
   "bugs": {
